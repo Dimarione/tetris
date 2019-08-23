@@ -29,6 +29,6 @@
     border: 1px solid #cccccc;
 }
 
-.figure .set {
+.figure, .set {
     background-color: #1e488c;
 }
